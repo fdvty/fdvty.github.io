@@ -1,4 +1,14 @@
+          <style id="publication_css">
+            .pubtitle {
+            margin-bottom: 0.5em;
+            line-height: 1.2em;
+            font-weight: bold;
+          }
+          </style>
 
           <div class="publications">
+            <h2>Selected Publications</h2>
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
-          </div>
+          </div> 
+
+

@@ -1,0 +1,31 @@
+
+- title: TA at Peking University
+  type: time_table
+  contents:
+    - title: Introduction to Computation (A)
+      year: Fall 2021
+      description: Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a>
+    - title: Introduction to Computer Systems
+      year: Fall 2020
+      description: Prof. Xiangqun Chen
+    - title: Rapid Prototyping in Innovations
+      year: Fall 2018
+      description: Prof. Jiang Chen
+
+- title: <a href="https://groups.google.com/g/lcpu">Linux Club of Peking University</a>
+  type: time_table
+  contents:
+    - title: President (社长)
+      year: 2020-2021
+    - title: Vice President (团支书)
+      year: 2019-2020
+
+
+
+- title: Other Activities
+  type: time_table
+  contents:
+    - title: <a href="https://www.cuhk.edu.hk/ccc/lssp/">Lee Shiu Summer Programme</a>
+      year: Summer 2018
+
+
