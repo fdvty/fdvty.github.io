@@ -5,6 +5,7 @@
 
 	  keywords.each do |keyword|
 		input = input.gsub(/^.*#{keyword}.*$\n/, '')
+    input = input.gsub('#', '')
 	  end
 
       return input
