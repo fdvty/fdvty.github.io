@@ -20,7 +20,8 @@ Email: [zirui.liu@pku.edu.cn](mailto:zirui.liu@pku.edu.cn)
 
 
 I am a third-year PhD student in [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/). 
-My research interest lies in probablistic data structures, and their application in network measurement, network management, streaming data mining, and distributed machine learning. 
+My research interest lies in interesting data structures and probablistic algorithms, as well as their application in network measurement, network management, streaming data mining, and distributed machine learning systems. 
+
 I received my B.S. degree in Computer Science from [Yuanpei College](https://yuanpei.pku.edu.cn/) , Peking University in 2021.
 
 I have been working as a research intern at Datacom Forwarding Algorithm Lab of [Huawei](https://www.huawei.com/en/), Beijing, since Oct. 2021.
