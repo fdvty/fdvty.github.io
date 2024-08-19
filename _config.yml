@@ -14,7 +14,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Zirui Liu's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Last updated: July 18, 2024
+  Last updated: August 18, 2024
 keywords: Zirui Liu's personal website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -80,6 +80,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: Zrzq12wAAAAJ # your Google Scholar ID
+strava_userid: 138749594
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
