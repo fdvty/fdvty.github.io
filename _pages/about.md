@@ -7,6 +7,7 @@ subtitle:
 profile:
   align: right
   image: lzr.png
+  # image: run.jpg
   image_circular: true # crops the image to make it circular
   address: >
 
@@ -19,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 Email: [zirui.liu@pku.edu.cn](mailto:zirui.liu@pku.edu.cn)
 
 
-I am a third-year PhD student in [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/). 
+I am a fourth-year PhD student in [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/). 
 
 My current research focus is using probabilistic algorithms to optimize the performance and efficiency of machine learning systems. 
 
