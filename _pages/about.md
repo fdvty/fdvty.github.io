@@ -22,6 +22,7 @@ Email: [zirui.liu@pku.edu.cn](mailto:zirui.liu@pku.edu.cn)
 
 I am a fourth-year PhD student in [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/). 
 
+My research interest includes distributed systems (network management and measurement systems, deep learning recommendation models, key-value stores) and streaming algoritms (probabilistic data structures, hash tables). 
 My current research focus is using probabilistic algorithms to optimize the performance and efficiency of machine learning systems. 
 
 
