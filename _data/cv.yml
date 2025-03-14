@@ -2,6 +2,9 @@
 - title: Awards and Honors
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Honorable Mention for Best Artifact of SIGMOD 2024
     - year: 2024
       items:
         - National Scholarship (国家奖学金), Ministry of Education
