@@ -23,7 +23,7 @@ Email: [zirui.liu@pku.edu.cn](mailto:zirui.liu@pku.edu.cn)
 I am a fourth-year PhD student in [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/). 
 
 My research interest includes distributed systems (networked systems, machine learning systems, storage systems) and algoritms (streaming algorithms, probabilistic data strucutes, hash tables). 
-My current research focus is using these algorithms to optimize the performance and efficiency of machine learning systems, with a focus on Deep Learning Recommendation Model (DLRM) and Large Language Model (LLM). 
+My current research focus is using these algorithms to optimize the performance and efficiency of machine learning systems. 
 
 
 I received my B.S. degree in Computer Science from [Yuanpei College](https://yuanpei.pku.edu.cn/) , Peking University in 2021. 
