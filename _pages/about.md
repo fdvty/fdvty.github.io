@@ -27,6 +27,6 @@ My research interest includes data strucutres and algorithms (probabilistic data
 
 
 I received my B.S. degree in Computer Science from [Yuanpei College](https://yuanpei.pku.edu.cn/) , Peking University in 2021. 
-I have been working as a research intern at Datacom Forwarding Algorithm Lab of [Huawei](https://www.huawei.com/en/), Beijing, since Oct. 2021.
+<!-- I have been working as a research intern at Datacom Forwarding Algorithm Lab of [Huawei](https://www.huawei.com/en/), Beijing, since Oct. 2021. -->
 
 My name written in Chinese is 刘子瑞 (<b><font color="red">Tel/WeChat: (+86) 18810703566</font></b>).
