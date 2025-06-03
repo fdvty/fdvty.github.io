@@ -3,17 +3,17 @@
 - title: Professional Services
   type: list
   contents:
-    - <u>Reviewer:</u> KDD 2024; KDD 2025 (August Cycle, February Cycle); TDSC
+    - <u>Reviewer:</u> KDD 2024; KDD 2025; TDSC
 
-- title: Internships
-  type: time_table
-  contents:
-    - title: Research Intern
-      year: 2025.5-present
-      description: Tencent Hunyuan, department of ML platform, TEG, <a href="https://www.tencent.com/en-us/">Tencnet</a>  （腾讯机器学习平台部混元大语言模型部）
-    - title: Research Intern
-      year: 2021.10-2025.4
-      description: Datacom Forwarding Algorithm Lab, <a href="https://www.huawei.com/en/">Huawei</a> （华为数据通信产品线转发算法实验室）
+# - title: Internships
+#   type: time_table
+#   contents:
+#     - title: Research Intern
+#       year: 2025.5-present
+#       description: Tencent Hunyuan, department of ML platform, TEG, <a href="https://www.tencent.com/en-us/">Tencnet</a>  （腾讯机器学习平台部混元大语言模型部）
+#     - title: Research Intern
+#       year: 2021.10-2025.4
+#       description: Datacom Forwarding Algorithm Lab, <a href="https://www.huawei.com/en/">Huawei</a> （华为数据通信产品线转发算法实验室）
 
       
 - title: TA at Peking University
@@ -45,5 +45,5 @@
     # - title: <a href="https://www.cuhk.edu.hk/ccc/lssp/">Lee Shiu Summer Programme</a>
     #   year: Summer 2018
     - title: Welcome to visit the <a href="https://sijiesong.github.io/">homepage</a> of my girlfriend Tracy (<u>A CSer, also a dancer</u>)!
-    - title: I like long-distance running/cycling/hiking and body building (<u>A CSer, also a runner <a href="https://www.strava.com/athletes/138749594"><i class="fab fa-fw fa-strava"></i>Strava</a></u>).
+    - title: I like long-distance running/cycling/hiking and body building (<u>Half-marathon personal best 1h44min <a href="https://www.strava.com/athletes/138749594"><i class="fab fa-fw fa-strava"></i>Strava</a></u>).
 
