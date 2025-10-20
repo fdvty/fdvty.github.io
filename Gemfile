@@ -9,14 +9,14 @@ group :jekyll_plugins do
     gem 'jekyll-imagemagick'
     gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
-    gem 'jekyll-minifier'
+    # gem 'jekyll-minifier'  # Temporarily disabled due to mini_racer issues
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    # gem 'mini_racer'  # Temporarily disabled due to compilation issues
     gem 'unicode_utils'
     gem 'webrick'
 end
