@@ -281,6 +281,7 @@ scholar:
 
   last_name: [Liu, Liu#]
   first_name: [Zirui]
+  chinese_name: [刘子瑞]  # Chinese name for highlighting
 
   style: apa
   locale: en
