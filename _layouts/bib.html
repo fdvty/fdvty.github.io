@@ -42,16 +42,23 @@
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
           {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-          {%- assign author_full_name = author.first | append: " " | append: author.last -%}
+          {%- assign author_first_name = author.first | strip -%}
+          {%- assign author_full_name = author.first | append: " " | append: author.last | strip -%}
+          
+          {%- comment -%} Check English name {%- endcomment -%}
           {%- if site.scholar.last_name contains author_last_name -%}
-            {%- if site.scholar.first_name contains author.first -%}
+            {%- if site.scholar.first_name contains author_first_name -%}
               {%- assign author_is_self = true -%}
             {%- endif -%}
           {%- endif -%}
+          
+          {%- comment -%} Check Chinese name {%- endcomment -%}
           {%- if site.scholar.chinese_name -%}
-            {%- if site.scholar.chinese_name contains author_full_name or site.scholar.chinese_name contains author_last_name -%}
-              {%- assign author_is_self = true -%}
-            {%- endif -%}
+            {%- for cn_name in site.scholar.chinese_name -%}
+              {%- if author_full_name == cn_name or author_last_name == cn_name or author_first_name == cn_name -%}
+                {%- assign author_is_self = true -%}
+              {%- endif -%}
+            {%- endfor -%}
           {%- endif -%}
           {%- assign coauthor_url = nil -%}
           {%- if site.data.coauthors[author_last_name] -%}
