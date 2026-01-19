@@ -23,4 +23,6 @@ end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
+    gem "ostruct"
+    gem "jekyll-minifier"
 end

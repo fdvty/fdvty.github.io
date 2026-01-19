@@ -1,9 +1,15 @@
 
+- title: Professional Services
+  type: list
+  contents:
+    - <u>Reviewer:</u> KDD 2026; KDD 2025 (Outstanding Reviewer); KDD 2024; TDSC
+
 - title: Awards and Honors
   type: time_table
   contents:
     - year: 2025
       items:
+        - Top 10 Outstanding Research Award (学术十杰), School of Computer Science of Peking University
         - Pacemaker to Merit Student (三好学生标兵)
         - Leo Kaiyuan Scholarship (廖凯原奖学金)
         - Huawei Spark Awards (华为火花奖)
@@ -43,4 +49,5 @@
     - year: 2016
       items:
         - The Third Prize of PKU Freshman Scholarship (北京大学新生奖学金三等奖), Peking University
+
 

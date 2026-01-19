@@ -1,49 +1,50 @@
 
 
-- title: Professional Services
-  type: list
-  contents:
-    - <u>Reviewer:</u> KDD 2024; KDD 2025 (Outstanding Reviewer, Top 10%); TDSC
+# - title: Professional Services
+#   type: list
+#   contents:
+#     - <u>Reviewer:</u> KDD 2026; KDD 2025 (Outstanding Reviewer); KDD 2024; TDSC
 
-- title: Internships
-  type: time_table
-  contents:
-    - title: Research Intern
-      year: 2025.5-2025.8
-      description: Tencent Hunyuan, department of ML platform, TEG, <a href="https://www.tencent.com/en-us/">Tencent</a>  （腾讯机器学习平台部混元大语言模型部）
-    - title: Research Intern
-      year: 2021.10-2025.4
-      description: Datacom Forwarding Algorithm Lab, <a href="https://www.huawei.com/en/">Huawei</a> （华为数据通信产品线转发算法实验室）
+# - title: Internships
+#   type: time_table
+#   contents:
+#     # - title: Research Intern
+#     #   year: 2025.5-2025.8
+#     #   description: Tencent Hunyuan, department of ML platform, TEG, <a href="https://www.tencent.com/en-us/">Tencent</a>  （腾讯机器学习平台部混元大语言模型部）
+#     - title: Research Intern
+#       year: 2021.10-2025.4
+#       description: Datacom Product Line, <a href="https://www.huawei.com/en/">Huawei</a> 
+#       # （华为数据通信产品线转发算法实验室）
 
       
-- title: TA at Peking University
-  type: time_table
-  contents:
-    - title: Introduction to Computation (A)
-      year: Fall 2021
-      description: Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a>
-    - title: Introduction to Computer Systems
-      year: Fall 2020
-      description: Prof. Xiangqun Chen
-    - title: Rapid Prototyping in Innovations
-      year: Fall 2018
-      description: Prof. Jiang Chen
+# - title: TA at Peking University
+#   type: time_table
+#   contents:
+#     - title: Introduction to Computation (A)
+#       year: Fall 2021
+#       description: Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a>
+#     - title: Introduction to Computer Systems
+#       year: Fall 2020
+#       description: Prof. Xiangqun Chen
+#     - title: Rapid Prototyping in Innovations
+#       year: Fall 2018
+#       description: Prof. Jiang Chen
 
-- title: <a href="https://groups.google.com/g/lcpu">Linux Club of Peking University</a>
-  type: time_table
-  contents:
-    - title: President (社长)
-      year: 2020-2021
-    - title: Vice President (团支书)
-      year: 2019-2020
+# - title: <a href="https://groups.google.com/g/lcpu">Linux Club of Peking University</a>
+#   type: time_table
+#   contents:
+#     - title: President (社长)
+#       year: 2020-2021
+#     - title: Vice President (团支书)
+#       year: 2019-2020
 
 
 
-- title: Others
-  type: time_table
-  contents:
-    # - title: <a href="https://www.cuhk.edu.hk/ccc/lssp/">Lee Shiu Summer Programme</a>
-    #   year: Summer 2018
-    - title: Welcome to visit the <a href="https://sijiesong.github.io/">homepage</a> of my girlfriend Tracy (<u>A CSer, also a dancer</u>)!
-    - title: I like long-distance running/cycling/hiking and body building (<u>Half-marathon personal best 1h44min <a href="https://www.strava.com/athletes/138749594"><i class="fab fa-fw fa-strava"></i>Strava</a></u>).
+# - title: Hobby
+#   type: time_table
+#   contents:
+# #     # - title: <a href="https://www.cuhk.edu.hk/ccc/lssp/">Lee Shiu Summer Programme</a>
+# #     #   year: Summer 2018
+# #     - title: Welcome to visit the <a href="https://sijiesong.github.io/">homepage</a> of my girlfriend Tracy (<u>A CSer, also a dancer</u>)!
+#     - title: I like long-distance running/cycling/hiking and body building (<u>Half-marathon personal best 1h44min <a href="https://www.strava.com/athletes/138749594"><i class="fab fa-fw fa-strava"></i>Strava</a></u>).
 
