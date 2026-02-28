@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications in reverse chronological order of acceptance date.  `#` represents co-first author.
+description: '# indicates co-first author, * indicates corresponding author, \(^{\dagger}\) indicates project lead.'
 nav: true
 nav_order: 1
 ---
