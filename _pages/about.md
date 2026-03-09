@@ -30,3 +30,5 @@ Our team at JD.com has open positions for both full-time engineers and research 
 <!-- I have been working as a research intern at Datacom Forwarding Algorithm Lab of [Huawei](https://www.huawei.com/en/), Beijing, since Oct. 2021. -->
 
 My name written in Chinese is 刘子瑞 (<b><font color="red">Tel/WeChat: (+86) 18810703566</font></b>).
+
+Check out my girlfriend [Tracy's homepage](https://sijiesong.github.io/).
