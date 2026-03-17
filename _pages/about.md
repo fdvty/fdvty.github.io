@@ -31,4 +31,4 @@ Our team at JD.com has open positions for both full-time engineers and research 
 
 My name written in Chinese is 刘子瑞 (<b><font color="red">Tel/WeChat: (+86) 18810703566</font></b>).
 
-Check out my girlfriend [Tracy's homepage](https://sijiesong.github.io/).
+<!-- Check out my girlfriend [Tracy's homepage](https://sijiesong.github.io/). -->
