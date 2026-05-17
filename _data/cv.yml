@@ -7,6 +7,10 @@
 - title: Awards and Honors
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Outstanding Graduate of Beijing City (北京市优秀毕业生)
+        - Outstanding Graduate of Peking University (北京大学优秀毕业生)
     - year: 2025
       items:
         - Top 10 Outstanding Research Award (学术十杰), School of Computer Science of Peking University
