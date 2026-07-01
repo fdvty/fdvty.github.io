@@ -21,10 +21,10 @@ Email: [zirui.liu@pku.edu.cn](mailto:zirui.liu@pku.edu.cn)
 
 
 I received my Ph.D. from the [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) in 2026, advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/). 
-My PhD research focused on data structures and their applications in optimizing system performance and efficiency.
+My PhD research explored data structures and their applications in optimizing system performance and efficiency.
 Previously, I received my B.S. degree in Computer Science from [Yuanpei College](https://yuanpei.pku.edu.cn/) , Peking University in 2021. 
 
-I am now a full-time researcher at [JD.com](https://corporate.jd.com/home), where I work on building LLM inference [engine](https://github.com/jd-opensource/xllm/tree/main) and [serving](https://github.com/jd-opensource/xllm-service) infrastructure. I'm always happy to chat about research, life, and potential collaborations. 
+I am now working at [JD.com](https://corporate.jd.com/home), building LLM inference [engine](https://github.com/jd-opensource/xllm/tree/main) and [serving](https://github.com/jd-opensource/xllm-service) infrastructure. I'm always happy to chat about research, life, and potential collaborations. 
 Our team at JD.com has open positions for both full-time engineers and research interns. Feel free to contact me!
 
 <!-- I have been working as a research intern at Datacom Forwarding Algorithm Lab of [Huawei](https://www.huawei.com/en/), Beijing, since Oct. 2021. -->
