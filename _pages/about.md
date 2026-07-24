@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 Email: [zirui.liu@pku.edu.cn](mailto:zirui.liu@pku.edu.cn)
 
 
-I am now working at [JD.com](https://corporate.jd.com/home), building LLM inference [engine](https://github.com/jd-opensource/xllm/tree/main) and [serving](https://github.com/jd-opensource/xllm-service) infrastructure. I'm always happy to chat about research, life, and potential collaborations. 
+I am currently a postdoctoral researcher at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), working with Prof. [Bin Cui](https://cuibinpku.github.io/).
+I also work at [JD.com](https://corporate.jd.com/home), building LLM inference [engine](https://github.com/jd-opensource/xllm/tree/main) and [serving](https://github.com/jd-opensource/xllm-service) infrastructure. I'm always happy to chat about research, life, and potential collaborations.
 Our team at JD.com has open positions for both full-time engineers and research interns. Feel free to contact me!
 
 I received my Ph.D. from the [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) in 2026, advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/). 
