@@ -18,6 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I currently work on AI infrastructure for LLM inference and serving.
+Our paper [BLADE: Scalable Bi-level Adaptive Data Selection for LLM Training](https://arxiv.org/pdf/2606.18650) was accepted to NeurIPS 2026 as a poster.
 I received my Ph.D. in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2026, advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/).
 My doctoral research explored data structures and their applications in optimizing system performance and efficiency.
 
