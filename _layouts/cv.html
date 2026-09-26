@@ -27,6 +27,13 @@ layout: default
                     {{ entry.contents }}
                   {% endif %}
                   </div>
+                  {% if entry.badge %}
+                    <div class="mt-3">
+                      <a href="{{ entry.badge.url }}">
+                        <img src="{{ entry.badge.image | relative_url }}" alt="{{ entry.badge.alt }}" width="180" height="180" class="img-fluid rounded bg-white" loading="lazy" decoding="async">
+                      </a>
+                    </div>
+                  {% endif %}
                 </div>
               {% endfor %}
               </div>
