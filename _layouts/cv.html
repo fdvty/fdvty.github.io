@@ -30,7 +30,7 @@ layout: default
                   {% if entry.badge %}
                     <div class="mt-3">
                       <a href="{{ entry.badge.url }}">
-                        <img src="{{ entry.badge.image | relative_url }}" alt="{{ entry.badge.alt }}" width="30" height="30" class="img-fluid rounded bg-white" loading="lazy" decoding="async">
+                        <img src="{{ entry.badge.image | relative_url }}" alt="{{ entry.badge.alt }}" width="30" height="30" style="width: 30px !important; height: 30px !important; object-fit: contain;" class="img-fluid rounded bg-white" loading="lazy" decoding="async">
                       </a>
                     </div>
                   {% endif %}
