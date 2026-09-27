@@ -1,9 +1,5 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
     {% for content in entry.contents %}
-      <li class="list-group-item">{{ content }}{%- if entry.badge and forloop.first -%}
-        &nbsp;<a href="{{ entry.badge.url }}" class="d-inline-block align-middle ml-1">
-          <img src="{{ entry.badge.image | relative_url }}" alt="{{ entry.badge.alt }}" width="80" height="80" style="width: 80px !important; height: 80px !important; object-fit: contain;" class="rounded bg-white" loading="lazy" decoding="async">
-        </a>
-      {%- endif -%}</li>
+      <li class="list-group-item">{{ content }}</li>
     {% endfor %}
 </ul>

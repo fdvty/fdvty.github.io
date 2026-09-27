@@ -13,7 +13,14 @@ layout: default
             <div class="cv">
               {% for entry in site.data.cv %}
                 <div class="card mt-3 p-3">
-                  <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                  <h3 class="card-title font-weight-medium">
+                    {{ entry.title }}
+                    {% if entry.badge %}
+                      <a href="{{ entry.badge.url }}" class="d-inline-block align-middle ml-2">
+                        <img src="{{ entry.badge.image | relative_url }}" alt="{{ entry.badge.alt }}" width="75" height="75" style="width: 75px !important; height: 75px !important; object-fit: contain; vertical-align: middle;" class="rounded bg-white" loading="lazy" decoding="async">
+                      </a>
+                    {% endif %}
+                  </h3>
                   <div>
                   {% if entry.type == "list" %}
                     {% include cv/list.html %}
