@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently work on AI infrastructure for LLM inference and serving.
+I currently work on AI infrastructure for building large-scale MaaS (Model-as-a-Service) platform at [ByteDance](https://www.bytedance.com/en/).
 I received my Ph.D. in Computer Software and Theory from [Peking University](https://www.pku.edu.cn/) in 2026, advised by Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Tong Yang](https://yangtonghome.github.io/).
 My doctoral research explored data structures and their applications in optimizing system performance and efficiency.
 
